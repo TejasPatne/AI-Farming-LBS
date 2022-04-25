@@ -35,8 +35,7 @@ password= urllib.parse.quote_plus('pass1')
 app.secret_key = 'aifarming'
 app.config['MONGODB_SETTINGS'] = {
     
-    'host': 
-"mongodb+srv://deepak:deepakprasad@cluster0.bhnka.mongodb.net/AIFarming?retryWrites=true&w=majority"
+
 
 ,
     
