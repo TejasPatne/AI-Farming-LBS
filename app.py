@@ -35,7 +35,7 @@ password= urllib.parse.quote_plus('pass1')
 app.secret_key = 'aifarming'
 app.config['MONGODB_SETTINGS'] = {
     
-
+# database connection name
 
 ,
     
