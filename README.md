@@ -132,6 +132,33 @@ quantity and contact details and these details can be forwarded to the sellers.
 
 
 
+# Conclusion:
+
+AI in Agriculture has been implemented. Various machine learning algorithms and
+python libraries like numpy and matplotlib have been used in the Looking Beyond
+Syllabus(LBS) project.
+
+References:
+
+● Crop yield prediction using machine learning algorithms - International
+Journal of Recent Technology and Engineering (IJRTE)
+
+● Crop Condition Assessment using Machine Learning - International Journal
+of Recent Technology and Engineering (IJRTE)
+
+● Open Government Data (OGD) Platform India
+
+● Kaggle: Your Machine Learning and Data Science Community
+
+
+# Detailed Contented
+
+Link: https://drive.google.com/file/d/1J11zDbQurj-B5sxRoLafOghHEF4Wc1Cp/view?usp=sharing
+
+#Project Demostration
+
+Link:https://youtu.be/Th5TQ2GAZBg
+
 
 
 
